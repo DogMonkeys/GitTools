@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-int main(int argc, char*argv[]){
+int main(){
 	// string x = argv[1];
 	// string y = "git.exe commit -m \"";
 	// string z = "\"";
