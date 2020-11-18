@@ -1,4 +1,4 @@
-#Git Tools - 一个用c++简化命令的小程序
+# Git Tools - 一个用c++简化命令的小程序
 
 目前实现了以下四个功能: `gc.exe`, `st.exe`, `ad.exe`, `gp.exe`
 
